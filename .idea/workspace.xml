@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7aa69973-9c0e-456c-ad49-4212bfc9a67e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaffolds/draft.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaffolds/page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/apolloArchitecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/baes64.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/compareConfig.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/encrypt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/fileTools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/gitCommands.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/gitMerge.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/gitObject.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/guavacache.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/jettyXml.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/joinAndCountDownLatch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/linux01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/linux02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/linux03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/linux04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/linux05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/mysqlLoadDataInFile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/mysqlMasterToSlave.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/mysqlNull.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/netease.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/scala01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/sentinel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/springStart.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/springTask.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/springTranscational.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/summaryOf2018.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/unlinkerr.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/book/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/film/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/top/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/uploads/file/ali.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/uploads/file/netease.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/uploads/sentinel/sentinel01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/uploads/sentinel/sentinel02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/uploads/sentinel/sentinel03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/de.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/default.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/es.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/fr.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/ja.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/ko.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/nl.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/no.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/pt.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/ru.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/zh-CN.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/languages/zh-TW.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive-post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/article.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/gauges-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/google-analytics.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/mobile-nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/date.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/gallery.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/git.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/nav.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/title.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_partial/sidebar.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/recent_posts.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/_widget/tagcloud.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/archive.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/category.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/layout.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/page.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/post.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/layout/tag.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/scripts/fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_extend.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/archive.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/article.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/comment.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/footer.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/header.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/highlight.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/mobile.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-aside.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_util/grid.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_util/mixin.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/_variables.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/css/style.styl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/landscape/source/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/02/16/gitMerge/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/02/19/gitObject/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/02/20/gitCommands/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/03/07/guavacache/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/03/07/jettyXml/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/03/15/springTask/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/07/31/springStart/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/08/02/unlinkerr/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/01/02/netease/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/02/18/linux01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/02/18/linux02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/02/18/linux03/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/02/18/linux04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/02/18/linux05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/04/19/springTranscational/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/06/21/mysqlMasterToSlave/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/08/18/fileTools/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/08/25/joinAndCountDownLatch/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/12/24/compareConfig/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/12/26/apolloArchitecture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/12/31/summaryOf2018/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/01/09/mysqlNull/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/01/12/scala01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/01/30/baes64/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/01/31/encrypt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/02/13/mysqlLoadDataInFile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2017/02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2017/03/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2017/07/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2017/08/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2017/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/06/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/08/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2019/01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2019/02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2019/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/page/3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/APlayer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/APlayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/Meting.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidusitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/Git/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/Java/Web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/Java/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/Java/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/Linux/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/MySQL/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/scala/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/加解密/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/杂谈/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/编码/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/algolia_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nc-nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nc-sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/cc-zero.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/compareConfig.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/images/compareConfig.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-16x16-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-32x32-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/placeholder.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/quote-l.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/quote-r.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/searchicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/algolia-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/exturl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/hook-duoshuo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/js.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/motion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/post-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/schemes/pisces.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/scroll-cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/src/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han-space.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han-space.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/canvas-nest/adaptive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/canvas-nest/canvas-nest.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/canvas-ribbon/canvas-ribbon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/blank.gif" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/blank.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading@2x.gif" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_overlay.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/fancybox_buttons.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-media.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/CONTRIBUTING.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/README.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.scrollstop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/needsharebutton/font-embedded.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/needsharebutton/needsharebutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/needsharebutton/needsharebutton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-barber-shop.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-big-counter.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-bounce.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-atom.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-circle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-radar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-simple.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-corner-indicator.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-fill-left.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-flash.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-loading-bar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-mac-osx.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-minimal.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/three/canvas_lines.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/three/canvas_sphere.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/three/three-waves.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/three/three.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/File/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Git/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Java/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Jetty/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Linux/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/MySQL/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/Spring/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/SpringBoot/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/apollo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/cs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/guava/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/join/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/scala/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/trifle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/加解密/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/多线程/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/面试/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_custom/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_custom/sidebar.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_layout.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_layout.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/top/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/apollo01.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/apollo01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/apollo02.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/apollo02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/apollo03.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/apollo03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/apollo04.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/apollo04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/apollo_cluster_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/apollo_cluster_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/apollo_namespace_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/apollo_namespace_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/architecture.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/architecture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/apollo/basicArchitecture.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/apollo/basicArchitecture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/avatar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/avatar1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/avatar1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/base64/base64_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/base64/base64_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/base64/base64_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/base64/base64_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/encrypt/AES_RSA_Hash.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/encrypt/AES_RSA_Hash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/file/ali.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/file/netease.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/mysql/mysqlMasterToSlave01.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/mysql/mysqlMasterToSlave01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/mysql/mysqlMasterToSlave02.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/mysql/mysqlMasterToSlave02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/mysql/mysqlMasterToSlave03.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/mysql/mysqlMasterToSlave03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/mysql/mysqlMasterToSlave04.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/mysql/mysqlMasterToSlave04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/mysql/mysqlMasterToSlave05.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/mysql/mysqlMasterToSlave05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/other/life.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/other/life.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/see_you_again.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/see_you_again.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_01.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_02.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_03.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_05.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_06.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_07.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_08.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_09.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/spring/spring_transactional_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/uploads/spring/spring_transactional_12.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-875535480">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="json" value="2" />
+          <entry key="md" value="4" />
+          <entry key="png" value="2" />
+          <entry key="swig" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="2" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="610" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+          <entry key="Markdown" value="603" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/sentinel.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="709">
+                <caret line="245" column="42" selection-start-line="245" selection-start-column="42" selection-end-line="245" selection-end-column="42" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/apolloArchitecture.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="273">
+                <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="48" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/next/layout/_layout.swig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="32" column="125" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forkme</find>
+      <find>Fork me</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Blog\source\uploads\spring</dir>
+      <dir>E:\Blog</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_drafts/sentinel.md" />
+        <option value="$PROJECT_DIR$/source/_posts/sentinel.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/themes/landscape/package.json" />
+      <path value="$PROJECT_DIR$/themes/next/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1928" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="AES&#9;FILE&#9;file://E:/Blog/2019/01/30/baes64" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551443925834" />
+    <property name="last_opened_file_path" value="E:/GitHub/Sentinel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Blog\source\uploads\sentinel" />
+      <recent name="E:\Blog\source\_drafts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7aa69973-9c0e-456c-ad49-4212bfc9a67e" name="Default Changelist" comment="" />
+      <created>1545220361273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545220361273</updated>
+      <workItem from="1545220364902" duration="5419000" />
+      <workItem from="1545269836742" duration="5107000" />
+      <workItem from="1545355036989" duration="860000" />
+      <workItem from="1545615234272" duration="599000" />
+      <workItem from="1545701744651" duration="597000" />
+      <workItem from="1545713941812" duration="598000" />
+      <workItem from="1545787235836" duration="1294000" />
+      <workItem from="1545873669760" duration="596000" />
+      <workItem from="1545960444264" duration="14737000" />
+      <workItem from="1546047062713" duration="19578000" />
+      <workItem from="1546144448793" duration="1517000" />
+      <workItem from="1546244483321" duration="12156000" />
+      <workItem from="1546392505528" duration="9486000" />
+      <workItem from="1546478361443" duration="797000" />
+      <workItem from="1546517181704" duration="1243000" />
+      <workItem from="1546565686732" duration="599000" />
+      <workItem from="1546753546283" duration="17625000" />
+      <workItem from="1546824646132" duration="7000" />
+      <workItem from="1546950751645" duration="2924000" />
+      <workItem from="1546997444109" duration="484000" />
+      <workItem from="1547034768253" duration="3723000" />
+      <workItem from="1547083903870" duration="596000" />
+      <workItem from="1547213518641" duration="106000" />
+      <workItem from="1547270145516" duration="1499000" />
+      <workItem from="1547272268366" duration="597000" />
+      <workItem from="1547283115996" duration="3164000" />
+      <workItem from="1547428673016" duration="281000" />
+      <workItem from="1547429019144" duration="68000" />
+      <workItem from="1547643927204" duration="723000" />
+      <workItem from="1547689324837" duration="2000" />
+      <workItem from="1548760771371" duration="629000" />
+      <workItem from="1548812558244" duration="597000" />
+      <workItem from="1548845520976" duration="4211000" />
+      <workItem from="1548898721018" duration="64000" />
+      <workItem from="1548901643533" duration="2752000" />
+      <workItem from="1548985185964" duration="9105000" />
+      <workItem from="1549935246032" duration="595000" />
+      <workItem from="1550061425236" duration="2485000" />
+      <workItem from="1550108231795" duration="19000" />
+      <workItem from="1550313170143" duration="2796000" />
+      <workItem from="1550452792698" duration="64000" />
+      <workItem from="1550558213870" duration="9144000" />
+      <workItem from="1550626993409" duration="184000" />
+      <workItem from="1550748405386" duration="2922000" />
+      <workItem from="1550799287839" duration="254000" />
+      <workItem from="1550799565886" duration="171000" />
+      <workItem from="1550906219015" duration="1694000" />
+      <workItem from="1551058115853" duration="245000" />
+      <workItem from="1551431022198" duration="3947000" />
+      <workItem from="1551502422511" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9257000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945712" visible="true" weight="0.26545843" />
+      <window_info id="Structure" order="1" sideWeight="0.5005429" side_tool="true" weight="0.27452025" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.17589577" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19088937" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2019/01/30/baes64/index.html" />
+    <entry file="file://$PROJECT_DIR$/categories/Git/index.html" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_drafts/sentinel.md" />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/uploads/see_you_again.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/uploads/avatar1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/sentinel.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="709">
+            <caret line="245" column="42" selection-start-line="245" selection-start-column="42" selection-end-line="245" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/apolloArchitecture.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="273">
+            <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_layout.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="125" selection-start-line="32" selection-start-column="54" selection-end-line="32" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
